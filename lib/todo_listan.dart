@@ -56,7 +56,6 @@ class TodoList extends StatelessWidget {
                   ],
                 ),
               ),
-              Text("${listan[index].favorite}")
             ],
           ),
         );
